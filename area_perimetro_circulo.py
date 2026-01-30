@@ -1,4 +1,4 @@
-#programa para calcular el área de un circulo
+#programa para calcular el área y el perimetro de un circulo de radio R
 
 #inicio
 import math
@@ -24,3 +24,4 @@ print("el preimetro del circulo es:" + str(p))
 print()
 print("(presione Enter para salir)")
 input()
+
